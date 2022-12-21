@@ -1,0 +1,5 @@
+[{"type":  "teacher", "name": "Koval Andriy"},
+  {"type":  "offsite", "name":  "Teaching Science", "teacher":  "Koval Andriy", "program":  ["basics", "advanced", "patterns"], "address": "Zoom meeting"},
+  {"type":  "teacher", "name": "Zubov Serhiy"},
+  {"type":  "local", "name":  "Local Course", "teacher":  "Zubov Serhiy", "program":  ["driving", "cooking"], "auditory":  "100"}
+]
